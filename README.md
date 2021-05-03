@@ -1,4 +1,4 @@
-# convo
+# Convo
 
 A friendly chat-app and social platform
 
