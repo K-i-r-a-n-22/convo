@@ -17,6 +17,7 @@ git clone https://github.com/K-i-r-a-n-22/convo
 - [ ] message transfer 
 - [ ] audio message
 - [ ] video message
+- [ ] voice message
 - [ ] end-to-end encryption
 - [ ] location sharing
 - [ ] theme(dark/light)
@@ -26,3 +27,11 @@ git clone https://github.com/K-i-r-a-n-22/convo
 - [ ] ai chat bot
 - [ ] status/story
 - [ ] call (audio nd video)
+- [ ] notification
+- [ ] group call message nd video call
+- [ ] profile picture (animated)
+- [ ] background image
+- [ ] ordered contact (activity)
+- [ ] block/report/spam
+- [ ] app lock
+- [ ] chat backup
